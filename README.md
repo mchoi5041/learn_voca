@@ -1,2 +1,2 @@
-# study_voca
+# learn_voca
 A program for learning vocabularies in a text file.
